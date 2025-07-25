@@ -341,7 +341,7 @@ Planned features coming soon to better-chatbot:
 - [ ] **RAG (Retrieval-Augmented Generation)**
 - [ ] **Web-based Compute** (with [WebContainers](https://webcontainers.io) integration)
 
-💡 If you have suggestions or need specific features, please create an [issue](https://github.com/cgoinglove/better-chatbot/issues)!
+💡 If you have suggestions or need specific features, please create an [issue](https://anish.cyberrakhwala.com/contact)!
 
 ## 🙌 Contributing
 
@@ -357,6 +357,6 @@ Let's build it together 🚀
 
 ## 💬 Join Our Discord
 
-[![Discord](https://img.shields.io/discord/1374047276074537103?label=Discord&logo=discord&color=5865F2)](https://discord.gg/gCRu69Upnp)
+[![Discord](https://img.shields.io/discord/1374047276074537103?label=Discord&logo=discord&color=5865F2)](https://discord.gg/cxhFgRUG)
 
 Connect with the community, ask questions, and get support on our official Discord server!
