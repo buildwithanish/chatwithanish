@@ -18,9 +18,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "better-chatbot",
+  title: "EduAI Assistant",
   description:
-    "Better Chatbot is a chatbot that uses the Tools to answer questions.",
+    "AI for Students & Teachers Student At LNCT Group of college.",
 };
 
 // const themes = BASE_THEMES.flatMap((t) => [t, `${t}-dark`]);
