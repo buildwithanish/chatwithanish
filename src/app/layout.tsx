@@ -20,7 +20,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "EduAI Assistant",
   description:
-    "AI for Students & Teachers Student At LNCT Group of college.",
+    "AI for Students & Teachers (Student At LNCT Group of college.)",
 };
 
 // const themes = BASE_THEMES.flatMap((t) => [t, `${t}-dark`]);
